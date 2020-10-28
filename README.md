@@ -1,4 +1,4 @@
-<h1>App for gentle morning routine reminders</h1>
+<h1>simple app for gentle morning routine reminders</h1>
 
 
 <div class"mb-3">
